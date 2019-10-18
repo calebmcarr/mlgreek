@@ -14,7 +14,7 @@ Once you have these, progress to install and test run
 *Highly recommended you run this in a virtual environment for python version control*
 1. clone the repository
 ```
-git clone https://github/sjhuskey/mlgreek.git
+git clone https://github/calebmcarr/mlgreek.git
 ```
 2. cd to the mlgreek repo
 ```
